@@ -1,0 +1,17 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	
+	<s:String x:Key="/Default/Environment/Hierarchy/Build/BuildTool/CustomBuildToolPath/@EntryValue">/usr/local/share/dotnet/sdk/5.0.402/MSBuild.dll</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4d55a0cc_002D0905_002D4911_002D8dda_002D22054cad6122/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="RunBusinessCreditVerification" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::AE7EAD92-8587-463E-97D4-BD6B08605A4E::.NETCoreApp,Version=v3.1::IntegrationAutomation.PreviousRelease.Tests.Features.EquifaxUSFeature.RunBusinessCreditVerification&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::AE7EAD92-8587-463E-97D4-BD6B08605A4E::.NETCoreApp,Version=v3.1::IntegrationAutomation.PreviousRelease.Tests.Features.EquifaxUSFeature.RunConsumerSoftCreditVerificationForPass&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::AE7EAD92-8587-463E-97D4-BD6B08605A4E::.NETCoreApp,Version=v3.1::IntegrationAutomation.PreviousRelease.Tests.Features.EquifaxUSFeature.VerifyErrorMessageWhenSSIsNotProvided&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::AE7EAD92-8587-463E-97D4-BD6B08605A4E::.NETCoreApp,Version=v3.1::IntegrationAutomation.PreviousRelease.Tests.Features.EquifaxUSFeature.RunConsumerSoftCreditVerification&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::AE7EAD92-8587-463E-97D4-BD6B08605A4E::.NETCoreApp,Version=v3.1::IntegrationAutomation.PreviousRelease.Tests.Features.EquifaxUSFeature.RunBusinessVerificationFromLoan&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::AE7EAD92-8587-463E-97D4-BD6B08605A4E::.NETCoreApp,Version=v3.1::IntegrationAutomation.PreviousRelease.Tests.Features.EquifaxUSFeature.RunEquifaxConsumerReportWithInvalidSSNumbers&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::AE7EAD92-8587-463E-97D4-BD6B08605A4E::.NETCoreApp,Version=v3.1::IntegrationAutomation.PreviousRelease.Tests.Features.EquifaxUSFeature.RunEquifaxConsumerCreditReport&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::AE7EAD92-8587-463E-97D4-BD6B08605A4E::.NETCoreApp,Version=v3.1::IntegrationAutomation.PreviousRelease.Tests.Features.EquifaxUSFeature.RunConsumerVerificationFromLoan&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::AE7EAD92-8587-463E-97D4-BD6B08605A4E::.NETCoreApp,Version=v3.1::IntegrationAutomation.PreviousRelease.Tests.Features.EquifaxUSFeature.RunMultipleBusinessVerificationFromLoan&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::AE7EAD92-8587-463E-97D4-BD6B08605A4E::.NETCoreApp,Version=v3.1::IntegrationAutomation.PreviousRelease.Tests.Features.EquifaxUSFeature.RunBusinessAndIndividualVerificationFromLoan&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = IntegrationAutomation.PreviousRelease.Tests
+build_property.ProjectDir = /Users/kennybanjo/RiderProjects/USIntegration.Automation.Tests/IntegrationAutomation.PreviousRelease.Tests/

@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{B6C1356A-24B8-4A42-91D9-E09A16FB4775}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Automation.Core.Selenium", "Automation.Core.Selenium\Automation.Core.Selenium.csproj", "{204D5C26-CB0F-423A-972C-0A2FC5CDEA59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegrationAutomation.CurrentRelease.Tests", "IntegrationAutomation.CurrentRelease.Tests\IntegrationAutomation.CurrentRelease.Tests.csproj", "{AE7EAD92-8587-463E-97D4-BD6B08605A4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{204D5C26-CB0F-423A-972C-0A2FC5CDEA59} = {B6C1356A-24B8-4A42-91D9-E09A16FB4775}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{204D5C26-CB0F-423A-972C-0A2FC5CDEA59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{204D5C26-CB0F-423A-972C-0A2FC5CDEA59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{204D5C26-CB0F-423A-972C-0A2FC5CDEA59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{204D5C26-CB0F-423A-972C-0A2FC5CDEA59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE7EAD92-8587-463E-97D4-BD6B08605A4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE7EAD92-8587-463E-97D4-BD6B08605A4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE7EAD92-8587-463E-97D4-BD6B08605A4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE7EAD92-8587-463E-97D4-BD6B08605A4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
